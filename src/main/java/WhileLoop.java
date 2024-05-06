@@ -9,6 +9,7 @@
  *
  * @see ForLoop1
  */
+
 public class WhileLoop {
   public static void main( String[] args ) {
     //    while ( Math.random() > 0.1 )
